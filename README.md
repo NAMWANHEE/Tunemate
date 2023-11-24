@@ -10,7 +10,7 @@
 
 친구를 사귀고 함께 플레이리스트를 만들어 나가 보세요
 
-![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/b894bb90-ab53-4b16-9496-95fa0141a56d)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/cb4dab2a-1faa-4adc-8154-f4879228b4be)
 
 ## 📅 프로젝트 진행 기간
 
@@ -41,9 +41,9 @@
 - 내 프로필
 
 <p align="center">  
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/1d47e9fb-5a68-45a0-a583-69e307f060ec"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/cad7a585-a19a-40e6-ae15-1a59d84e750c"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/00b02153-1723-4732-a1dd-bbd77ddde3b2"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/454c02c4-e542-4e18-80d3-34961468c83a"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/2520217e-181d-4dde-975d-3a2b07f32ccb"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/9ad522d4-7e47-469e-8b65-c65737d05c2f"  width="200" height="400"/>
 </p>
 
 ---
@@ -53,9 +53,9 @@
 - 곡 추가
 - 플레이리스트 순서 변경
 <p align="center">  
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4da54598-25f4-47fa-a9b6-0f00e951d414"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/7cb81b56-02ad-447c-b84e-aa025484f96e"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/299ef3ad-3ebe-4207-8fb0-6ca60846cc18"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/d0367c80-3dd8-47b9-8383-ae1c33b125a1"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/2f3784d4-b132-4f18-9f2e-fe9c2829220b"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/03425b4a-78ca-4d36-ae79-5074d87e6fbc"  width="200" height="400"/>
 
 </p>
 
@@ -66,9 +66,9 @@
 - 친구 추천 화면
 - 공고 모집 목록
 <p align="center">
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/f8dedd96-f0a7-4864-a143-63ec470477e9"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/0fee6edc-51db-4df7-b6b3-93d4681e709d"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/9751e9bb-8da2-4b7c-8af9-bffe0b6ba06d"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/51ebf6bf-bd38-438a-836a-bf758afcd883"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4d8ce42a-9e35-45f4-8e65-c6c1e4104ba1"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/04c5bea8-dd2f-4a73-ad9d-cb67e7cd1384"  width="200" height="400"/>
 </p>
 
 ---
@@ -79,10 +79,10 @@
 - 플레이리스트 화면
 - 플레이리스트 화면 2
 <p align="center">
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/a0cd64b3-2c9b-4916-bac2-7e4da9b298e2"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4a200e93-be90-47a6-b1f9-2c2d61816109"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/f698f68c-7ff7-49bb-a68d-4a92f5213a0b"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/95929fc3-770a-4238-b546-3172b531e292"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/0f4c22d4-81bd-441c-ad51-33fe8c12d885"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/accf1460-f90f-46de-b2bc-a33f6e84ba66"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4a0cf906-3d6d-4402-a173-71705604cf9e"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/012718dc-770d-4a50-b93d-4b4558c38da7"  width="200" height="400"/>
 </p>
 
 ---
@@ -93,9 +93,9 @@
 - 공동 플레이리스트 곡 추가(유저 2)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/7f92ce9b-005a-4702-8bee-14c37353764f"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/a4bfbd8a-ea21-4e30-b5d6-42cf3d326a56"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/b1461882-a4f5-4434-af0f-9c290cbb085e"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/2b41f0fa-6ca7-41a6-b793-5f6cf6a43042"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/b480d3e7-0da3-4306-8a52-387f381568fb"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/26f763fa-0bd3-4c6d-b6f5-dd1e8e07df79"  width="200" height="400"/>
 
 </p>
 
@@ -106,8 +106,8 @@
 - 공동 플레이리스트 곡 위치 변경(유저 2)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/cf94796e-9735-4d0b-ad81-258fc1c2385f"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/38b88bc1-f60e-4c69-b9e7-bf4d688bb661"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/cc47411d-2904-4241-b1e8-fec12fc94d57"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/5e9121cb-9826-43ea-b154-e834499c1636"  width="200" height="400"/>
 
 </p>
 
@@ -118,15 +118,15 @@
 - 공동 플레이리스트 곡 삭제(유저 2)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/3fdd3b17-623a-4ee3-bbcb-5ae09549823a"  width="200" height="400"/>
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/00259f8e-b774-4da2-8592-586a34bcad1c"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/94b9c7f8-4f9f-4970-a00a-5bdd2a930558"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4a82b222-2b2b-4e6c-aea0-ac94d08d5559"  width="200" height="400"/>
 
 </p>
 
 
 ## 🐳 아키텍처
 
-![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/35ca50b1-20c1-4fe6-acb1-30d8be224785)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/14ff9e34-afd2-4750-95b6-2dfdb986a94a)
 
 
 ## 🛠️ 기술스택
@@ -184,7 +184,7 @@
 
 ## 👨‍💻 팀원 소개
 
-![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/40483d5f-5b17-4bc9-a2f4-1e80f2ea9b42)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/7708bc60-d9a9-43ac-8264-5f0f80bc054e)
 
-![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/f7490529-aaaf-4395-8865-be70a7a79086)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/1eeddf03-f4f7-4998-a331-3d3aac367f38)
 
