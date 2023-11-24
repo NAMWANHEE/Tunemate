@@ -93,7 +93,7 @@
 - 공동 플레이리스트 곡 추가(유저 2)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/2b41f0fa-6ca7-41a6-b793-5f6cf6a43042"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/3cc996d0-2330-40a5-8876-296941acd18c"  width="200" height="400"/>
 <img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/b480d3e7-0da3-4306-8a52-387f381568fb"  width="200" height="400"/>
 <img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/26f763fa-0bd3-4c6d-b6f5-dd1e8e07df79"  width="200" height="400"/>
 
