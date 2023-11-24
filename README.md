@@ -10,7 +10,12 @@
 
 친구를 사귀고 함께 플레이리스트를 만들어 나가 보세요
 
-![TuneMate_](/uploads/9a5a9570ee779fffbcb0e5a57fcd9333/TuneMate_.png)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/b894bb90-ab53-4b16-9496-95fa0141a56d)
+
+## 📅 프로젝트 진행 기간
+
+2023.10.10(화) ~ 2023.11.17(금) (6주간 진행)
+
 
 ## 💡 주요기능
 
@@ -36,9 +41,9 @@
 - 내 프로필
 
 <p align="center">  
-<img src="/uploads/09225bab11f03f692ea7bee5bb29cfbb/KakaoTalk_20231120_151933572.png"  width="200" height="400"/>
-<img src="/uploads/318f4f4a953039c4cc7a8a39fb444cb9/KakaoTalk_20231120_151955626.png"  width="200" height="400"/>
-<img src="/uploads/edf4b2583f63aafb5f2c9db002d75eac/KakaoTalk_20231120_152010120.png"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/1d47e9fb-5a68-45a0-a583-69e307f060ec"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/cad7a585-a19a-40e6-ae15-1a59d84e750c"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/00b02153-1723-4732-a1dd-bbd77ddde3b2"  width="200" height="400"/>
 </p>
 
 ---
@@ -48,9 +53,9 @@
 - 곡 추가
 - 플레이리스트 순서 변경
 <p align="center">  
-<img src="/uploads/d4998969c6225ea890d9634de23b4ac8/KakaoTalk_20231120_152027611.png"  width="200" height="400"/>
-<img src="/uploads/168b6891f32606bff37bc5ba9c9f7e94/KakaoTalk_20231120_152049220.png"  width="200" height="400"/>
-<img src="/uploads/4f01998ba5c87ef4bd8f5bee07e7bf88/KakaoTalk_20231120_152123131.png"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4da54598-25f4-47fa-a9b6-0f00e951d414"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/7cb81b56-02ad-447c-b84e-aa025484f96e"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/299ef3ad-3ebe-4207-8fb0-6ca60846cc18"  width="200" height="400"/>
 
 </p>
 
@@ -61,9 +66,9 @@
 - 친구 추천 화면
 - 공고 모집 목록
 <p align="center">
-<img src="/uploads/5d23dcc409e711f161a7799122010e1d/KakaoTalk_20231120_152152304.png"  width="200" height="400"/>
-<img src="/uploads/5b45ca072c7c03e9c0b88a2bba5fa352/KakaoTalk_20231120_152215791.png"  width="200" height="400"/>
-<img src="/uploads/a5cffd3b3c87571e71c5be7e1fefa65c/Architecture.png"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/f8dedd96-f0a7-4864-a143-63ec470477e9"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/0fee6edc-51db-4df7-b6b3-93d4681e709d"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/9751e9bb-8da2-4b7c-8af9-bffe0b6ba06d"  width="200" height="400"/>
 </p>
 
 ---
@@ -74,10 +79,10 @@
 - 플레이리스트 화면
 - 플레이리스트 화면 2
 <p align="center">
-<img src="/uploads/372c891f4bdfaf0dec7ae74a74813c59/KakaoTalk_20231120_152246967.png"  width="200" height="400"/>
-<img src="/uploads/28fd622d9bdeced0ead61c3dedd4cada/KakaoTalk_20231120_152303063.png"  width="200" height="400"/>
-<img src="/uploads/b994867abdd4b33d41637acdedb84fe9/KakaoTalk_20231120_152317391.png"  width="200" height="400"/>
-<img src="/uploads/2d53c3f47082855fba542683401b7ecf/KakaoTalk_20231120_152339130.png"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/a0cd64b3-2c9b-4916-bac2-7e4da9b298e2"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/4a200e93-be90-47a6-b1f9-2c2d61816109"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/f698f68c-7ff7-49bb-a68d-4a92f5213a0b"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/95929fc3-770a-4238-b546-3172b531e292"  width="200" height="400"/>
 </p>
 
 ---
@@ -88,9 +93,9 @@
 - 공동 플레이리스트 곡 추가(유저 2)
 
 <p align="center">
-<img src="/uploads/8ccb68796f0d306df4ef5f0bf55bc784/채팅2.gif"  width="200" height="400"/>
-<img src="/uploads/16b7de3819b281d3215d1f2a60256451/공동플리1곡추가.gif"  width="200" height="400"/>
-<img src="/uploads/79f2d4d234a369e3a4e9357d8d488a95/공동플리2곡추가.gif"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/7f92ce9b-005a-4702-8bee-14c37353764f"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/a4bfbd8a-ea21-4e30-b5d6-42cf3d326a56"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/b1461882-a4f5-4434-af0f-9c290cbb085e"  width="200" height="400"/>
 
 </p>
 
@@ -101,8 +106,8 @@
 - 공동 플레이리스트 곡 위치 변경(유저 2)
 
 <p align="center">
-<img src="/uploads/429e056b8e8f23ddf76d8a4a253a507f/공동플리1곡위치변경.gif"  width="200" height="400"/>
-<img src="/uploads/761c020b28ab0a627312bacd4edd8e86/공동플리2곡위치변경.gif"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/cf94796e-9735-4d0b-ad81-258fc1c2385f"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/38b88bc1-f60e-4c69-b9e7-bf4d688bb661"  width="200" height="400"/>
 
 </p>
 
@@ -113,15 +118,16 @@
 - 공동 플레이리스트 곡 삭제(유저 2)
 
 <p align="center">
-<img src="/uploads/c463220d9bcc7d776b0799220651c4c7/공동플리1곡삭제.gif"  width="200" height="400"/>
-<img src="/uploads/16bf320e249aa2c88237ba50c8cbb49c/공동플리2곡삭제.gif"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/3fdd3b17-623a-4ee3-bbcb-5ae09549823a"  width="200" height="400"/>
+<img src="https://github.com/NAMWANHEE/Tunemate/assets/76835981/00259f8e-b774-4da2-8592-586a34bcad1c"  width="200" height="400"/>
 
 </p>
 
 
 ## 🐳 아키텍처
 
-![Architecture](/uploads/d75e66e5ae9c438314ddd03f7fe2f006/Architecture.png)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/35ca50b1-20c1-4fe6-acb1-30d8be224785)
+
 
 ## 🛠️ 기술스택
 
@@ -175,11 +181,10 @@
 - Jira
 - Mattermost
 
-## 📅 프로젝트 진행 기간
-
-2023.10.10(화) ~ 2023.11.17(금) (6주간 진행)
 
 ## 👨‍💻 팀원 소개
 
-![image](/uploads/a10a32cf6b48dafaa84ead1a1b0310c4/image.png)
-![image](/uploads/53ac98bc0062883b649ed000f4216774/image.png)
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/40483d5f-5b17-4bc9-a2f4-1e80f2ea9b42)
+
+![image](https://github.com/NAMWANHEE/Tunemate/assets/76835981/f7490529-aaaf-4395-8865-be70a7a79086)
+
